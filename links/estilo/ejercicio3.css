@@ -1,0 +1,15 @@
+.estilo1{
+    background-color: #f4f4f4;
+    padding: 20px;
+    border: 2px solid #007BFF;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+
+.botonResaltado{
+    background-color: #1a4ed5;
+    color: white;
+}

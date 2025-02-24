@@ -1,0 +1,38 @@
+/* Todos los elementos de la página */ body{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #d19e5c;
+}
+
+/* Todos los párrafos */ p{
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Encabezados mayor tamaño y segundo mayor tamaño contenidos en
+elementos con la clase main */  h1, h2{
+    color: #336699;
+}
+
+/* Todos los enlaces de la página */ a{
+    text-decoration: none;
+    color: #CC3300;
+}
+
+/* Listas no ordenadas contenidas en elementos con el id lista. */
+ ul{
+    list-style-type: square;
+}
+
+/* Estilizar los elementos "li" dentro de la lista con clase "destacado" */ li{
+    font-weight: bold;
+}
+
+/* Estilo para botones */ button{
+    background-color: #1a4ed5;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}

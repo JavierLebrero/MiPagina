@@ -1,0 +1,69 @@
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: BLACK;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+
+header {
+    text-align: center;
+    background-color: RED;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+
+h2, h3 {
+    color: RED;
+    margin-bottom: 10px;
+}
+
+
+section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin-left: 20px;
+}
+
+a {
+   color: RED;
+}
+.trabajos, .volver {
+    text-align: center;
+}
+
+
+.trabajos a {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+
+.volver button {
+    background-color: #0059b3;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 30px;
+    font-size: 1.2em;
+    cursor: pointer;
+
+}
